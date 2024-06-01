@@ -323,6 +323,10 @@ function handleInput() {
                     $('#message').val('');
                     break;
 
+                case 'users':
+                    $('#user').click();
+                    break;
+
                 case 'reconnect':
                     socket.close();
                     break;
