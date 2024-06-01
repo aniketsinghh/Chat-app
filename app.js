@@ -413,7 +413,7 @@ function readLine() {
 
         rl.prompt();
     }).on('close', function() {
-        consoleLog(stop, 'Shutting down\n');
+        consoleLog(logStop, 'Shutting down\n');
         process.exit(0);
     });
 }
