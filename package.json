@@ -1,10 +1,14 @@
 {
   "name": "node-chat",
 <<<<<<< HEAD
+<<<<<<< HEAD
   "version": "0.20.28",
 =======
   "version": "0.20.27",
 >>>>>>> 3d5e683 (v0.20.27 - Updated logging function and fixed localStorage emoji issue)
+=======
+  "version": "0.20.31",
+>>>>>>> 3afbaf4 (v0.20.31 - Double declaration fix)
   "private": true,
   "scripts": {
     "start": "node app.js"
