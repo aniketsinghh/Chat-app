@@ -11,12 +11,14 @@ You can test a fully working live demo at https://igorantun.com/chat
 - Type `/help` to get a list of the available chat commands
 
 ## Features
+- Material Design
 - Emoji support
 - User @mentioning
 - Private messaging
 - Message deleting (for admins)
 - Ability to kick/ban users (for admins)
-- [Other awesome features yet to be implemented](https://github.com/IgorAntun/node-chat/blob/master/TODO.md)
+- See other user's IPs (for admins)
+- Other awesome features yet to be implemented
 
 ## Setup
 Clone this repo to your desktop and run `npm install` to install all the dependencies.
